@@ -11,8 +11,9 @@ Adds a new chat option for players who are currently dead to speak to those who 
 5. Profit!?!
 
 ## Commands
-> sm_ghost <message> - Chat to players who are alive with a `*GHOST*` Tag.
-> sm_g <message> - Abbreviated sm_ghost command
+> `sm_ghost <message>` - Chat to players who are alive with a `*GHOST*` Tag.
+
+> `sm_g <message>` - Abbreviated sm_ghost command
 
 ## ConVars
 Visit https://wiki.alliedmods.net/Adding_Admins_(SourceMod)#Levels for the flags to use in these flag ConVars.
