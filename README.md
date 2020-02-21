@@ -1,9 +1,7 @@
 # SourceMod | Ghost Chat
 Adds a new chat option for players who are currently dead to speak to those who are alive. This disables alive players from seeing the normal dead chat. Useful for gamemodes like TF2Jail where giving things away may occur.
 
-'''
-*Dead* Chat cannot be viewed by players who are alive when this plugin is installed
-'''
+'*Dead*' Chat cannot be viewed by players who are alive when this plugin is installed
 
 ## Installation
 1. Download latest release or source files
@@ -13,7 +11,7 @@ Adds a new chat option for players who are currently dead to speak to those who 
 5. Profit!?!
 
 ## Commands
-> sm_ghost <message> - Chat to players who are alive with a '''*GHOST*''' Tag.
+> sm_ghost <message> - Chat to players who are alive with a '*GHOST*' Tag.
 > sm_g <message> - Abbreviated sm_ghost command
 
 ## ConVars
