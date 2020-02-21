@@ -18,13 +18,19 @@ Adds a new chat option for players who are currently dead to speak to those who 
 Visit https://wiki.alliedmods.net/Adding_Admins_(SourceMod)#Levels for the flags to use in these flag ConVars.
 Check out https://www.doctormckay.com/morecolors.php for the colour options for the colour ConVars.
 
-> `gc_defaultcolour <colour>` - Change the *GHOST* Colour for any player without a flag. [Default: 'default'] <
-> `gc_vipflag <flag>` - Change which flags can access the VIP *GHOST* Colour. <
-> `gc_vipcolour <colour>` - Change the *GHOST* Colour for anyone with the gc_vipflag flag. [Default: 'lightgreen'] <
-> `gc_vip2flag <flag>` - Change which flags can access the VIP 2 *GHOST* Colour. <
-> `gc_vip2colour <colour>` - Change the *GHOST Colour for anyone with the gc_vip2flag flag. [Default: 'hotpink'] <
-> `gc_adminflag <flag>` - Change which flags can access Admin *GHOST* Colour. <
-> `gc_admincolour <colour>` - Change the *GHOST* Colour for admins with the gc_adminflag Flag. [Default: 'lightgreen'] <
+> `gc_defaultcolour <colour>` - Change the *GHOST* Colour for any player without a flag. [Default: 'default']
+
+> `gc_vipflag <flag>` - Change which flags can access the VIP *GHOST* Colour.
+
+> `gc_vipcolour <colour>` - Change the *GHOST* Colour for anyone with the gc_vipflag flag. [Default: 'lightgreen']
+
+> `gc_vip2flag <flag>` - Change which flags can access the VIP 2 *GHOST* Colour.
+
+> `gc_vip2colour <colour>` - Change the *GHOST Colour for anyone with the gc_vip2flag flag. [Default: 'hotpink']
+
+> `gc_adminflag <flag>` - Change which flags can access Admin *GHOST* Colour.
+
+> `gc_admincolour <colour>` - Change the *GHOST* Colour for admins with the gc_adminflag Flag. [Default: 'lightgreen']
   
 ## Suggestions/Feedback/Issues
 
