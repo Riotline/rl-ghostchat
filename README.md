@@ -16,6 +16,7 @@ Adds a new chat option for players who are currently dead to speak to those who 
 
 ## ConVars
 Visit https://wiki.alliedmods.net/Adding_Admins_(SourceMod)#Levels for the flags to use in these flag ConVars.
+
 Check out https://www.doctormckay.com/morecolors.php for the colour options for the colour ConVars.
 
 > `gc_defaultcolour <colour>` - Change the *GHOST* Colour for any player without a flag. [Default: 'default']
