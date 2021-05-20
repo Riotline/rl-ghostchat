@@ -1,4 +1,4 @@
-# SourceMod | Ghost Chat
+# SourceMod | Riot Ghost Chat
 **OLD PROJECT. Archived on GitHub. (Last Major Change circa 2017)**
 
 Adds a new chat option for players who are currently dead to speak to those who are alive. This disables alive players from seeing the normal dead chat. Useful for gamemodes like TF2Jail where giving things away may occur.
